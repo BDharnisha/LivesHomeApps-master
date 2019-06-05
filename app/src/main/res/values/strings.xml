@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">LivesHomeApps</string>
+    <string name="yourEmail">Your Email</string>
+    <string name="yourPassword">Your Password</string>
+    <string name="login">LOGIN</string>
+    <string name="remMe">Remember Me</string>
+    <string name="newRegistration">Register Here</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="registration">Registration</string>
+    <string name="takePic">Click above to take picture</string>
+    <string name="homename">Home Name</string>
+    <string name="location">Location</string>
+    <string name="position">Position</string>
+    <string name="name">Name</string>
+    <string name="pswrd">Password</string>
+    <string name="email">Email</string>
+    <string name="alreadyregister">Already Register</string>
+    <string name="dialogtakepicture">Take Picture?</string>
+    <string name="dialogtakepicturea">Make sure to use your own picture</string>
+    <string name="yesbutton">Yes</string>
+    <string name="nobutton">No</string>
+    <string name="registerdialognew">Register new account</string>
+    <string name="registrationprocess">Registration in progress</string>
+    <string name="registerfor">Register for</string>
+    <string name="phone">Mobile Phone</string>
+    <string name="register">REGISTER</string>
+    <string name="showPassword">Show Password</string>
+    <string name="selectItemCategory">Select Item Category</string>
+    <string name="mybooking">My Booking</string>
+    <string name="about">About Us</string>
+    <string-array name="homename">
+        <item>All</item>
+        <item>Agathians Home</item>
+        <item>Aman Home</item>
+        <item>Tia Childrens Home</item>
+        <item>Shelter Home</item>
+        <item>Cheshire Home</item>
+    </string-array>
+    <string-array name="location">
+        <item>All</item>
+        <item>Sintok</item>
+        <item>Changlun</item>
+
+    </string-array>
+    <string-array name="position">
+        <item>Select Here</item>
+        <item>Home Manager</item>
+        <item>Home Assistant Manager</item>
+        <item>Home Secretary</item>
+    </string-array>
+
+    <string-array name="itemCategory">
+        <item>All</item>
+        <item>Clothes</item>
+        <item>Shoes</item>
+        <item>Books</item>
+        <item>Stationery</item>
+        <item>Furnitures</item>
+        <item>Electrical Appliances</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
